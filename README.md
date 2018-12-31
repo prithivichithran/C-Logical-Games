@@ -1,10 +1,8 @@
-This first game uploaded here is used as an gridgame // For Grid Game Only
+# Introduction
+##Description:
 
-Rules are Simple:
+* This is a typical Game Created using C Language.
 
-1.The values should be in ascending starting from 0 to 8 in 3 X 3 Array Format.
+* This Game is easy to play 
 
-2.Users Should The Grid's values Change Until The Above Condtion is achieved.
-
-3.Simple w,a,s,&d controls for up,down,left&right respectively.
-********************************************************************************
+* Can 
