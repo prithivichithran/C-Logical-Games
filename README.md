@@ -2,7 +2,7 @@
 
 * The game is created using c language.
  
-##Description :
+## Description :
 
 * This is a typical game created using C language.
 
@@ -10,7 +10,7 @@
 
 * This game is has a 3 X 3 matrix type format.
 
-##Rules :
+## Rules :
 
 * User Should use w,a,s&d keys.
 * w is used for Moving the values up,
@@ -19,36 +19,38 @@
 * d is used for Moving the values right.
 * Users must finish the game in way such that values are in ascending order
 
-#Screenshots :
+# Screenshots :
 * Game Starts in format like below as in numbers in scrambled order.
+
 ![gamedemo][demo1]
 
 * User Should Change Values Using Specified rules and finish game like below.
+
 ![gamedemo1][demo3]
 
-#Concepts Used :
+# Concepts Used :
 
-##Array :
+## Array :
 * Here Array is used to store the HardCoded Values of the grid.
 * In this code we use both Single and Multi Dimensional Array. 
         
-##Function :
+## Function :
 * Function is used to reduce the code complexity.
 * here we use more than one function.
 
-##For Loop:
+## For Loop:
 * For loop is used to print grid values.
 * It is also used to find the position of zero .
 
-##While loop:
+## While loop:
 * It is used to run and swap values until the values are in ascending order.
 
-##Switch Case:
+## Switch Case:
 * It is used to get the moves from user and to appropriately swap them in the grid.
 
 
 
-#Demo
+# Demo
 link is here [demolink]
 
 
