@@ -1,8 +1,12 @@
 # Introduction :
 
 * The game is created using c language.
+
+# Demo :
+ Try out [HERE]
+
  
-## Description :
+# Description :
 
 * This is a typical game created using C language.
 
@@ -31,12 +35,14 @@
 # Concepts Used :
 
 ## Array :
-* Here Array is used to store the HardCoded Values of the grid.
+* Here Array is used to store the Hard Coded Values of the grid.
 * In this code we use both Single and Multi Dimensional Array. 
-        
+* Single Dimensional Array is used  for storing index value for the position of zero in grid.
+* Multi Dimensional Array is used for storing,swapping & printing the grid values.
+         
 ## Function :
 * Function is used to reduce the code complexity.
-* here we use more than one function.
+* Here we use more than one function.
 
 ## For Loop:
 * For loop is used to print grid values.
@@ -50,10 +56,8 @@
 
 
 
-# Demo
-link is here [demolink]
 
 
 [demo1]: https://gist.github.com/prithivichithran/d80be0e6959d886568acd90a11938b95/raw/45939a762b64b1dac21079fcbe96f35e3e90cb30/Game_Starts.png
 [demo3]: https://gist.github.com/prithivichithran/d80be0e6959d886568acd90a11938b95/raw/45939a762b64b1dac21079fcbe96f35e3e90cb30/Game_Starts_2.png
-[demolink]: https://onlinegdb.com/By0cg8wbN
+[HERE]: https://onlinegdb.com/By0cg8wbN
